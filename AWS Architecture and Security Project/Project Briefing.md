@@ -26,4 +26,4 @@ Here are our team stats from the JAM;
 
 Despite the hardship, our team did get a third prize from this competion, which is not the best achievement but certainly will not be our last!
 
-![third](./Picture/third.jpg0
+![third](./Picture/third.jpg
