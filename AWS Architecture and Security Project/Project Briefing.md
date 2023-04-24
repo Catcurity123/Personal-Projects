@@ -1,4 +1,4 @@
-# My Dat at the AWS Security JAM 
+# My Day at the AWS Security JAM 
 
 Greetings! I'm Luan.
 
